@@ -1,4 +1,4 @@
-# Courts-Judgments-Prediction
+# Court Judgments Prediction using Machine Learning
 Judgments Prediction of Supreme Court of Nigeria (SCN)
 
 **I have used Machine Learning to predict the judgements of the Supreme Court of Nigeria (SCN) based on a dataset from Primsol Law Pavillion and explained the predictions through Explainable AI.**
